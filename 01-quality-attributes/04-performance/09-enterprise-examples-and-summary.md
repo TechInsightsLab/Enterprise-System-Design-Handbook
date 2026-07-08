@@ -896,5 +896,3 @@ Together, these quality attributes form the core pillars upon which advanced top
 This concludes **Chapter 4 – Performance**.
 
 The next chapter should naturally progress to **Chapter 5 – Fault Tolerance**, where the focus shifts from optimizing normal operation to ensuring the system continues functioning correctly when components fail.
-
-**STOP.** Wait for the next command before generating Chapter 5.
