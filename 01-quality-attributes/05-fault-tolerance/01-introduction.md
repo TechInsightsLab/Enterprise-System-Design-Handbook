@@ -570,14 +570,6 @@ That shift in thinking transforms fault handling into fault-tolerant architectur
 
 ---
 
-## GitHub File Name
-
-**Suggested filename:**
-
-`05-fault-tolerance-01-introduction.md`
-
----
-
 **End of Part 1**
 
 The next part will cover:
