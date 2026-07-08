@@ -830,14 +830,6 @@ Only after answering these questions do they choose technologies such as Kuberne
 
 ---
 
-## GitHub File Name
-
-**Suggested filename:**
-
-`03-scalability-03-fundamentals.md`
-
----
-
 **End of Part 3**
 
 The next section will cover **Architecture Decisions**, including Stateless Services, Horizontal vs Vertical Scaling, Load Balancing, Caching, Database Partitioning, Sharding, CQRS, Event-Driven Architecture, CDN, and Asynchronous Processing.
