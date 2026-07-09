@@ -672,4 +672,3 @@ Concurrency naturally leads to the next foundational topic:
 
 > **Chapter 9 – Concurrency Complete**
 
-**STOP.** Wait for the next command before generating **Chapter 10 – Data Management**.
